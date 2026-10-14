@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+*.iml
+out/
+bin/
+.DS_Store
+*.tmp
+*.swp
